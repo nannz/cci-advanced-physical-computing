@@ -1,7 +1,7 @@
 # week 2 Sensor
 ## Assignment: A wind chime lamp for better sleeping
 
-Please check IR_withServo as the final output.
+Please check [IR_withServo](https://github.com/nannz/cci-advanced-physical-computing/tree/main/week2-sensor/IR_withServo) as the final output.
 I have tried PIR Motion Sensor, Tilt Sensor, and the IR transmitter and receiver.
 
 The use of IR enables me to design the product helping sleep by making gentle sound with a wind chimes (powered by the motor).
